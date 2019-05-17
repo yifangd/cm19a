@@ -84,8 +84,8 @@ TTDs
 
 LOGFILE = './cm19a.log'             # Path and filename for the logfile
 
-#MODE = 'Command Line'              # Mode of operation: either 'Command Line', 'HTTP Server'
-MODE = 'HTTP Server'
+MODE = 'Command Line'              # Mode of operation: either 'Command Line', 'HTTP Server'
+#MODE = 'HTTP Server'
 
 # Required only if MODE == 'HTTP Server'
 SERVER_IP_ADDRESS = '192.168.1.3'              # Set SERVERIP to the IP address of the server
